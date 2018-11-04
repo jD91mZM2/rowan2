@@ -1,0 +1,10 @@
+[package]
+authors = ["jD91mZM2 <me@krake.one>"]
+name = "rowan2"
+version = "0.1.0"
+[dependencies]
+smol_str = "0.1.7"
+text_unit = "0.1.5"
+
+[features]
+thread = []
